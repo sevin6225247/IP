@@ -1,0 +1,8 @@
+name = "IP"
+uuid = "48ddf77c-6b50-11e9-3a04-d18b48867e65"
+authors = ["zahra <zahra.ebadi.ansarodi@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
